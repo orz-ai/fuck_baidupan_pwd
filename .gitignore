@@ -1,0 +1,7 @@
+__pycache__/
+logs
+backup
+venv
+merged_pwd_pool.txt
+wrong_pwds.txt
+.idea
